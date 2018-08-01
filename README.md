@@ -1,9 +1,8 @@
 ---
-name: Sihan Wu, Yitong Wang
-uni: sw3013, yw2786
-Group id: 201605-17
+name: Praveen, Kumar
+Dept: GPTE
 course: Advanced Big data Analysis
-project: Final Project
+project: Operational Intelligence Lab
 ---
 
 # Uber Surge Prediction and Analysis
